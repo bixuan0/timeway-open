@@ -2,11 +2,16 @@
 
 本文档界定 TimeWay 的**开放层**与**商业层**的精确边界，供使用者、贡献者与商业客户参照。
 
-## 开放层（本仓库，GPL-3.0）
+## 开放层（本仓库）
 
-### 文档与规范
+> 授权双轨：**文档 CC BY 4.0 · 代码 GPL-3.0**。
+
+### 文档与规范（CC BY 4.0）
 - `docs/TimeWay_算法白皮书.md` — 方法论白皮书（架构、确定性、SUMO 交叉验证 §18、DSL §19）
+- `docs/CC-BY-4.0.txt` — 白皮书授权文件（Creative Commons Attribution 4.0 International）
 - `docs/md2html_whitepaper.py` — 白皮书转换工具
+
+  文档内容以 **CC BY 4.0** 授权，转载 / 改编 / 商用均须注明出处（TimeWay Team · 玄尊）。
 
 ### 场景语言（DSL）
 - `dsl/__init__.py`
@@ -20,7 +25,7 @@
 - `demos/osc_demo/` — 标准 OpenDRIVE / OpenSCENARIO 场景文件
 - `examples/*.tw` — 场景语言示例
 
-> 开放层可自由使用、修改、再分发，衍生作品须保持 GPL-3.0。
+> 代码（DSL 解析器、demo 等）以 **GPL-3.0** 授权，可自由使用、修改、再分发，衍生代码作品须保持 GPL-3.0。
 
 ## 商业层（不在本仓库，需商业许可）
 
