@@ -1,0 +1,1711 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OpenSCENARIO xmlns="http://schemas.asam.net/OpenSCENARIO/1.2">
+  <FileHeader revMajor="1" revMinor="2" date="2026-08-27T14:15:30" description="Exported from TimeWay .tw DSL: 水电站门禁复用版" author="时途 TimeWay DSL Exporter" />
+  <RoadNetwork>
+    <LogicFile filepath="hydro_gate_reuse.xodr" />
+  </RoadNetwork><Entities>
+    <Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="自卸卡车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.60" length="9.00" height="3.40" />
+          <Offset x="4.50" y="0.00" z="1.70" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.60" positionX="3.60" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.60" positionX="-3.60" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle><Vehicle name="水泥罐车">
+      <BoundingBox>
+        <Center>
+          <Dimensions width="2.50" length="10.00" height="3.60" />
+          <Offset x="5.00" y="0.00" z="1.80" />
+        </Center>
+      </BoundingBox><Performance maxSpeed="55.55" maxAcceleration="8.0" maxDeceleration="10.0" />
+      <Axles>
+        <FrontAxle maxSteering="0.5" wheelDiameter="1.0" trackWidth="2.50" positionX="4.00" positionZ="0.5" />
+        <RearAxle maxSteering="0.0" wheelDiameter="1.0" trackWidth="2.50" positionX="-4.00" positionZ="0.5" />
+      </Axles><Properties>
+        <Property name="tw.source" value="TimeWay .tw DSL export" />
+      </Properties>
+    </Vehicle>
+  </Entities><Storyboard>
+    <Init>
+      <Actions>
+        <Private entityRef="E1">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="3.86" y="-6.43" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E2">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="3.09" y="-5.14" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E3">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="2.32" y="-3.86" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E4">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="1.54" y="-2.57" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E5">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="0.77" y="-1.29" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E6">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="0.00" y="0.00" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E7">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="-0.77" y="1.29" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E8">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="-1.54" y="2.57" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E9">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="-2.32" y="3.86" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E10">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="-3.09" y="5.14" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E11">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="8.15" y="-3.86" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E12">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="7.37" y="-2.57" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E13">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="6.60" y="-1.29" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E14">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="5.83" y="0.00" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E15">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="5.06" y="1.29" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E16">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="4.29" y="2.57" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E17">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="3.52" y="3.86" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E18">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="2.74" y="5.14" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E19">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="1.97" y="6.43" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E20">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="1.20" y="7.72" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E21">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="3.86" y="-6.43" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E22">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="3.09" y="-5.14" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E23">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="2.32" y="-3.86" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E24">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="1.54" y="-2.57" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E25">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="0.77" y="-1.29" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E26">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="0.00" y="0.00" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E27">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="-0.77" y="1.29" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E28">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="-1.54" y="2.57" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E29">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="-2.32" y="3.86" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private><Private entityRef="E30">
+          <PrivateAction>
+            <TeleportAction>
+              <Position>
+                <WorldPosition x="-3.09" y="5.14" z="0.00" h="0.5404" />
+              </Position>
+            </TeleportAction>
+          </PrivateAction><PrivateAction>
+            <LongitudinalAction>
+              <SpeedAction>
+                <SpeedActionDynamics dynamicsDimension="time" value="5.0" dynamicsShape="linear" />
+                <SpeedTarget>
+                  <AbsoluteTargetSpeed value="8.89" />
+                </SpeedTarget>
+              </SpeedAction>
+            </LongitudinalAction>
+          </PrivateAction>
+        </Private>
+      </Actions>
+    </Init><Story name="水电站门禁复用版_story">
+      <Act name="Act1">
+        <Maneuver name="Rules">
+          <Event name="rule_1_close_road" priority="parallel">
+            <Action>
+              <Private entityRef="E1">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E2">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E3">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E4">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E5">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E6">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E7">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E8">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E9">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E10">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E11">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E12">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E13">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E14">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E15">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E16">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E17">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E18">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E19">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E20">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E21">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E22">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E23">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E24">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E25">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E26">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E27">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E28">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E29">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E30">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private>
+            </Action><StartTrigger>
+              <ConditionGroup>
+                <Condition name="t600" delay="0" priority="overwrite">
+                  <ByValueCondition>
+                    <SimulationTimeCondition value="600.0" rule="greaterThan" />
+                  </ByValueCondition>
+                </Condition>
+              </ConditionGroup>
+            </StartTrigger>
+          </Event><Event name="rule_2_accident" priority="parallel">
+            <Action>
+              <Private entityRef="E1">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E2">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E3">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E4">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E5">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E6">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E7">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E8">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E9">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E10">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E11">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E12">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E13">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E14">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E15">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E16">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E17">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E18">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E19">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E20">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E21">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E22">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E23">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E24">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E25">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E26">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E27">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E28">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E29">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private><Private entityRef="E30">
+                <PrivateAction>
+                  <LongitudinalAction>
+                    <SpeedAction>
+                      <SpeedActionDynamics dynamicsDimension="time" value="2.0" dynamicsShape="linear" />
+                      <SpeedTarget>
+                        <AbsoluteTargetSpeed value="0.00" />
+                      </SpeedTarget>
+                    </SpeedAction>
+                  </LongitudinalAction>
+                </PrivateAction>
+              </Private>
+            </Action><StartTrigger>
+              <ConditionGroup>
+                <Condition name="t156" delay="0" priority="overwrite">
+                  <ByValueCondition>
+                    <SimulationTimeCondition value="156.0" rule="greaterThan" />
+                  </ByValueCondition>
+                </Condition>
+              </ConditionGroup>
+            </StartTrigger>
+          </Event>
+        </Maneuver><Maneuver name="Weather">
+          <Event name="weather_1_晴" priority="parallel">
+            <Action>
+              <GlobalAction>
+                <GlobalAction>
+                  <EnvironmentAction>
+                    <Environment>
+                      <Weather cloudState="free">
+                        <Sun intensity="1.00" azimuth="0.00" elevation="0.00" />
+                        <Fog visualRange="1000.0" />
+                        <Precipitation precipitationType="rain" intensity="0.00" />
+                      </Weather><RoadCondition frictionScaleFactor="1.00" />
+                    </Environment>
+                  </EnvironmentAction>
+                </GlobalAction>
+              </GlobalAction>
+            </Action><StartTrigger>
+              <ConditionGroup>
+                <Condition name="t0" delay="0" priority="overwrite">
+                  <ByValueCondition>
+                    <SimulationTimeCondition value="0.0" rule="greaterThan" />
+                  </ByValueCondition>
+                </Condition>
+              </ConditionGroup>
+            </StartTrigger>
+          </Event><Event name="weather_2_暴雨" priority="parallel">
+            <Action>
+              <GlobalAction>
+                <GlobalAction>
+                  <EnvironmentAction>
+                    <Environment>
+                      <Weather cloudState="free">
+                        <Sun intensity="0.00" azimuth="0.00" elevation="0.00" />
+                        <Fog visualRange="150.0" />
+                        <Precipitation precipitationType="rain" intensity="1.00" />
+                      </Weather><RoadCondition frictionScaleFactor="1.00" />
+                    </Environment>
+                  </EnvironmentAction>
+                </GlobalAction>
+              </GlobalAction>
+            </Action><StartTrigger>
+              <ConditionGroup>
+                <Condition name="t600" delay="0" priority="overwrite">
+                  <ByValueCondition>
+                    <SimulationTimeCondition value="600.0" rule="greaterThan" />
+                  </ByValueCondition>
+                </Condition>
+              </ConditionGroup>
+            </StartTrigger>
+          </Event><Event name="weather_3_团雾" priority="parallel">
+            <Action>
+              <GlobalAction>
+                <GlobalAction>
+                  <EnvironmentAction>
+                    <Environment>
+                      <Weather cloudState="free">
+                        <Sun intensity="0.40" azimuth="0.00" elevation="0.00" />
+                        <Fog visualRange="40.0" />
+                        <Precipitation precipitationType="rain" intensity="0.00" />
+                      </Weather><RoadCondition frictionScaleFactor="1.00" />
+                    </Environment>
+                  </EnvironmentAction>
+                </GlobalAction>
+              </GlobalAction>
+            </Action><StartTrigger>
+              <ConditionGroup>
+                <Condition name="t1800" delay="0" priority="overwrite">
+                  <ByValueCondition>
+                    <SimulationTimeCondition value="1800.0" rule="greaterThan" />
+                  </ByValueCondition>
+                </Condition>
+              </ConditionGroup>
+            </StartTrigger>
+          </Event><Event name="weather_4_晴" priority="parallel">
+            <Action>
+              <GlobalAction>
+                <GlobalAction>
+                  <EnvironmentAction>
+                    <Environment>
+                      <Weather cloudState="free">
+                        <Sun intensity="1.00" azimuth="0.00" elevation="0.00" />
+                        <Fog visualRange="1000.0" />
+                        <Precipitation precipitationType="rain" intensity="0.00" />
+                      </Weather><RoadCondition frictionScaleFactor="1.00" />
+                    </Environment>
+                  </EnvironmentAction>
+                </GlobalAction>
+              </GlobalAction>
+            </Action><StartTrigger>
+              <ConditionGroup>
+                <Condition name="t2400" delay="0" priority="overwrite">
+                  <ByValueCondition>
+                    <SimulationTimeCondition value="2400.0" rule="greaterThan" />
+                  </ByValueCondition>
+                </Condition>
+              </ConditionGroup>
+            </StartTrigger>
+          </Event>
+        </Maneuver>
+      </Act>
+    </Story><StopTrigger>
+      <ConditionGroup>
+        <Condition name="t3600" delay="0" priority="overwrite">
+          <ByValueCondition>
+            <SimulationTimeCondition value="3600.0" rule="greaterThan" />
+          </ByValueCondition>
+        </Condition>
+      </ConditionGroup>
+    </StopTrigger>
+  </Storyboard>
+</OpenSCENARIO>
