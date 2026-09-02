@@ -2,6 +2,7 @@
 
 > 版本：2026-08-28（v2；基于 D:\timeway 代码逐文件核实，含 8/22–8/28 交叉验证与交付件更新）
 > 范围：路网生成、车辆物理、驾驶决策、心理建模、天气路面、事件安全、时空加速、数据采集全链路算法，及第三方交叉验证。
+> 授权：本文档以 Creative Commons Attribution 4.0 International (CC BY 4.0) 发布，见 [`docs/CC-BY-4.0.txt`](./CC-BY-4.0.txt)；转载或改编须注明出处（TimeWay Team · 玄尊）。
 
 ---
 

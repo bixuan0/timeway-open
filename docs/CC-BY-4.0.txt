@@ -1,0 +1,33 @@
+Creative Commons Attribution 4.0 International
+(CC BY 4.0)
+
+本文件声明：TimeWay（时途）开放核心仓库 docs/ 目录下的文档内容——包括
+但不限于《TimeWay 算法白皮书》(TimeWay_算法白皮书.md) 及其 Markdown /
+HTML 衍生、示例场景说明文字——采用 Creative Commons Attribution 4.0
+International (CC BY 4.0) 授权。
+
+官方完整法律文本：
+  https://creativecommons.org/licenses/by/4.0/
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+你可以自由地：
+  · 复制、分发本白皮书；
+  · 将其用于教学、研究、商业培训等任何用途（含商用）；
+  · 改编、翻译、摘录，并以自己的作品再发布。
+
+唯一条件 —— 署名 (Attribution)：
+使用时须以合理方式注明出处，至少包含：
+  1. 作者：TimeWay Team（时途团队）/ 玄尊
+  2. 作品名：TimeWay 时途 · 微观交通仿真平台算法白皮书
+  3. 来源链接：https://github.com/bixuan0/timeway-open
+  4. 许可标识：CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+你不得：
+  · 以任何方式暗示作者为你或你的作品背书或担保。
+
+注意：
+  · 本 CC BY 4.0 授权仅覆盖 docs/ 下的文档内容。
+  · 同一仓库内的代码（DSL 解析器、demo 等）仍以 GPL-3.0 授权，
+    见仓库根 LICENSE 文件及 README「License & Dual-Licensing」节。
+  · CC 授权不影响作者对文档享有的著作权，也不影响作者就封闭核心
+    （仿真引擎、心理模型、7 层热力图等）对外提供商业授权的权利。
